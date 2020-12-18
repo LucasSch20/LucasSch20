@@ -4,7 +4,7 @@
 * :seedling: Atualmente aprendendo ReactJS e NodeJS;
 * :rocket: Sempre buscando novas maneiras de melhorar e aprender;
 
-### :tools: Conhecimentos:
+### :hammer_and_wrench: Conhecimentos:
 * :clipboard: Html 5;
 * :art: CSS3;
 * :wrench: JavaScript (Aprendendo);
