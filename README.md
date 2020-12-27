@@ -7,4 +7,4 @@
 ### :hammer_and_wrench: Conhecimentos:
 * :clipboard: Html 5;
 * :art: CSS3;
-* :wrench: JavaScript (Aprendendo);
+* :wrench: JavaScript (Praticando);
