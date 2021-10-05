@@ -4,10 +4,10 @@
 * :seedling: Atualmente estudando tecnologias front-end;
 * :rocket: Sempre buscando novas maneiras de melhorar e aprender;
 
-<div align="center">
+<div>
   <a href="https://github.com/LucasSch20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSch20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSch20&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSch20&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSch20&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ### 📞 Entre em Contato:
