@@ -1,4 +1,4 @@
-# Hello World, i'm Lucas!
+# Hello World, I'm Lucas!
 
 ### :grinning: Sobre mim:
 * :seedling: Atualmente estudando tecnologias front-end;
